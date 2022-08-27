@@ -3,7 +3,7 @@
 "app_secret": "354a74108e731823fa4873d553e0924d",
 # 模板消息id
 "template_id": "oRztIAO3Qf6A6NbUHL6LbWKSV7Wo7lGHUQmS_ZGy1po",
-"user": ["oSfCZ5sP2KL3MEMgkTvRdno8Xzxc"],
+"user": ["oSfCZ5sP2KL3MEMgkTvRdno8Xzxc","oSfCZ5sP2KL3MEMgkTvRdno8Xzxc"],
 "weather_key": "7e7aa4f9d6c742ddbaea9a4170071b44",
 "region": "鹿邑县",
 "birthday1": {"name": "史先生", "birthday": "2001-05-11"},
