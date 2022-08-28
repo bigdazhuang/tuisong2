@@ -2,7 +2,7 @@
 "app_id": "wx250a54b2989bf6a1",
 "app_secret": "354a74108e731823fa4873d553e0924d",
 # 模板消息id
-"template_id": "oRztIAO3Qf6A6NbUHL6LbWKSV7Wo7lGHUQmS_ZGy1po",
+"template_id": "dZExl2Of1hICBrE6LCBRlCIqjlZiOmJP4KXyia1dEoQ",
 "user": ["oSfCZ5sP2KL3MEMgkTvRdno8Xzxc","oSfCZ5sP2KL3MEMgkTvRdno8Xzxc","oSfCZ5vDi1nnOC58H73akgZmNcvY"],
 "weather_key": "7e7aa4f9d6c742ddbaea9a4170071b44",
 "region": "鹿邑县",
