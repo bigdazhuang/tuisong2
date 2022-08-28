@@ -6,8 +6,8 @@
 "user": ["oSfCZ5sP2KL3MEMgkTvRdno8Xzxc","oSfCZ5sP2KL3MEMgkTvRdno8Xzxc","oSfCZ5vDi1nnOC58H73akgZmNcvY"],
 "weather_key": "7e7aa4f9d6c742ddbaea9a4170071b44",
 "region": "鹿邑县",
-"birthday1": {"name": "史先生", "birthday": "2001-05-11"},
-"birthday2": {"name": "丁女士", "birthday": "2003-02-05"},
+"birthday1": {"name": "大壮哥哥", "birthday": "2001-05-11"},
+"birthday2": {"name": "小丁同学", "birthday": "2003-02-05"},
 "love_date": "2021-10-31",
 "note_ch": "",
 "note_en": ""
